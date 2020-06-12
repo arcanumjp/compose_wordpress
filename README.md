@@ -1,2 +1,2 @@
-# compose_wordpress
-１つのコンテナでWordpress環境を作成する
+# docker-wp
+docker-compose.ymlで１コンテナでワードプレス環境を作成する
